@@ -1,0 +1,16 @@
+D:\modal programs\class\bin\Debug\net5.0\class.exe
+D:\modal programs\class\bin\Debug\net5.0\class.deps.json
+D:\modal programs\class\bin\Debug\net5.0\class.runtimeconfig.json
+D:\modal programs\class\bin\Debug\net5.0\class.runtimeconfig.dev.json
+D:\modal programs\class\bin\Debug\net5.0\class.dll
+D:\modal programs\class\bin\Debug\net5.0\ref\class.dll
+D:\modal programs\class\bin\Debug\net5.0\class.pdb
+D:\modal programs\class\obj\Debug\net5.0\class.csprojAssemblyReference.cache
+D:\modal programs\class\obj\Debug\net5.0\class.GeneratedMSBuildEditorConfig.editorconfig
+D:\modal programs\class\obj\Debug\net5.0\class.AssemblyInfoInputs.cache
+D:\modal programs\class\obj\Debug\net5.0\class.AssemblyInfo.cs
+D:\modal programs\class\obj\Debug\net5.0\class.csproj.CoreCompileInputs.cache
+D:\modal programs\class\obj\Debug\net5.0\class.dll
+D:\modal programs\class\obj\Debug\net5.0\ref\class.dll
+D:\modal programs\class\obj\Debug\net5.0\class.pdb
+D:\modal programs\class\obj\Debug\net5.0\class.genruntimeconfig.cache
